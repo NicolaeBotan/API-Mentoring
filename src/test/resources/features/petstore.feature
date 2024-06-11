@@ -1,3 +1,4 @@
+@api
 Feature: PetStore API
 
   Scenario: List Pets API
